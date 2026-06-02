@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Rowan+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+UI%2FUX+Designer;AI-Powered+App+Builder+%F0%9F%A4%96;Turning+Ideas+Into+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rowanchrist&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Rowan2228&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -67,11 +67,11 @@ class Rowan:
 
 <div align="center">
 
-<a href="https://github.com/rowanchrist">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rowanchrist&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF8C42&text_color=f0e6d3&border_radius=10"/>
+<a href="https://github.com/Rowan2228">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rowan2228&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF8C42&text_color=f0e6d3&border_radius=10"/>
 </a>
-<a href="https://github.com/rowanchrist">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowanchrist&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=f0e6d3&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Rowan2228">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowan2228&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=f0e6d3&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -82,7 +82,7 @@ class Rowan:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rowanchrist&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF8C42&dates=8B949E&currStreakNum=f0e6d3&sideNums=f0e6d3&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rowan2228&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF8C42&dates=8B949E&currStreakNum=f0e6d3&sideNums=f0e6d3&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,7 +92,7 @@ class Rowan:
 
 <div align="center">
 
-[![Rowan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rowanchrist&theme=github-compact&bg_color=0d1117&color=FF6B35&line=FF8C42&point=FFB347&area=true&hide_border=true)](https://github.com/rowanchrist)
+[![Rowan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rowan2228&theme=github-compact&bg_color=0d1117&color=FF6B35&line=FF8C42&point=FFB347&area=true&hide_border=true)](https://github.com/Rowan2228)
 
 </div>
 
@@ -102,7 +102,7 @@ class Rowan:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rowanchrist&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rowan2228&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -152,8 +152,8 @@ class Rowan:
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [**IntellectoNova**](https://github.com/rowanchrist) | HTML · CSS · JS · AI/ML | AI-powered study planner with personalized recommendations & intuitive UI |
-| [**CareerFlow AI**](https://github.com/rowanchrist) | HTML · CSS · JS · MySQL · Figma | Full-stack career platform with ATS analyser, job discovery, and skill dashboard |
+| [**IntellectoNova**](https://github.com/Rowan2228) | HTML · CSS · JS · AI/ML | AI-powered study planner with personalized recommendations & intuitive UI |
+| [**CareerFlow AI**](https://github.com/Rowan2228) | HTML · CSS · JS · MySQL · Figma | Full-stack career platform with ATS analyser, job discovery, and skill dashboard |
 
 </div>
 
@@ -203,7 +203,7 @@ class Rowan:
 
 <div align="center">
 
-📫 **Reach me at:** [rowanchrist32@gmail.com](mailto:rowanchrist32@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/rowan-christ-122556293) &nbsp;|&nbsp; [GitHub](https://github.com/rowanchrist)
+📫 **Reach me at:** [rowanchrist32@gmail.com](mailto:rowanchrist32@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/rowan-christ-122556293) &nbsp;|&nbsp; [GitHub](https://github.com/Rowan2228)
 
 </div>
 
