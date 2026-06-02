@@ -63,20 +63,6 @@ class Rowan:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Rowan2228">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rowan2228&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF8C42&text_color=f0e6d3&border_radius=10"/>
-</a>
-<a href="https://github.com/Rowan2228">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowan2228&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=f0e6d3&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -98,15 +84,6 @@ class Rowan:
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rowan2228&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💼 Projects
 
